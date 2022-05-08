@@ -1,0 +1,5 @@
+7
+Broscovina 5 id1 Mormolocel 3 id12
+id1 4 5 5 5
+id2 -1 1 3 8
+id12 4 -5 5 5

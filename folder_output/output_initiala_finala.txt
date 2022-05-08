@@ -1,0 +1,17 @@
+1)
+Broscovina se afla pe frunza initiala id1(4, 5). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id12(4, -5). Greutate broscuta: 3
+Stare frunze: id1(5,5), id2(3,8), id12(5,5)
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(4, 5) la mal. Greutate broscuta: 4
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id12(4, -5) la mal. Greutate broscuta: 2
+Stare frunze: id1(5,5), id2(3,8), id12(5,5)
+
+Lungimea drumului: 1
+Costul drumului: 0.0
+Timp de gasire al solutiei: 0.030966520309448242
+Numarul maxim de noduri: 36
+Numarul total de noduri: 36
+
+--------------------
+

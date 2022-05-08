@@ -1,0 +1,21 @@
+1)
+Broscovina se afla pe frunza initiala id1(0, 0). Greutate broscuta: 5
+Stare frunze: id0(3,5), id1(0,5), id2(3,8), id3(0,7), id4(3,10), id5(1,5), id6(1,6), id7(3,7), id8(1,7), id9(2,8), id10(4,12)
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0, 0) la id2(-1, 1). Greutate broscuta: 4
+Stare frunze: id0(3,5), id1(0,5), id2(3,8), id3(0,7), id4(3,10), id5(1,5), id6(1,6), id7(3,7), id8(1,7), id9(2,8), id10(4,12)
+3)
+Broscovina a mancat 2 insecte. Broscovina a sarit de la id2(-1, 1) la id6(-3, 1). Greutate broscuta: 5
+Stare frunze: id0(3,5), id1(0,5), id2(1,8), id3(0,7), id4(3,10), id5(1,5), id6(1,6), id7(3,7), id8(1,7), id9(2,8), id10(4,12)
+4)
+Broscovina a mancat 1 insecte. Broscovina a sarit de la id6(-3, 1) la mal. Greutate broscuta: 5
+Stare frunze: id0(3,5), id1(0,5), id2(1,8), id3(0,7), id4(3,10), id5(1,5), id6(0,6), id7(3,7), id8(1,7), id9(2,8), id10(4,12)
+
+Lungimea drumului: 3
+Costul drumului: 4.414213562373095
+Timp de gasire al solutiei: 0.037384986877441406
+Numarul maxim de noduri: 7
+Numarul total de noduri: 16
+
+--------------------
+
